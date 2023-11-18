@@ -51,3 +51,5 @@ while any(data['available_seats'] > 0 for data in train_schedule.values()):
         purchase_tickets(time, num_tickets)
 
 end_of_day()
+
+# suggestions
